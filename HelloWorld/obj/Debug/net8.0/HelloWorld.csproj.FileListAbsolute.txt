@@ -1,0 +1,14 @@
+/Users/billysbook/RiderProjects/CodingFactory8/HelloWorld/bin/Debug/net8.0/HelloWorld
+/Users/billysbook/RiderProjects/CodingFactory8/HelloWorld/bin/Debug/net8.0/HelloWorld.deps.json
+/Users/billysbook/RiderProjects/CodingFactory8/HelloWorld/bin/Debug/net8.0/HelloWorld.runtimeconfig.json
+/Users/billysbook/RiderProjects/CodingFactory8/HelloWorld/bin/Debug/net8.0/HelloWorld.dll
+/Users/billysbook/RiderProjects/CodingFactory8/HelloWorld/bin/Debug/net8.0/HelloWorld.pdb
+/Users/billysbook/RiderProjects/CodingFactory8/HelloWorld/obj/Debug/net8.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/billysbook/RiderProjects/CodingFactory8/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/billysbook/RiderProjects/CodingFactory8/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfo.cs
+/Users/billysbook/RiderProjects/CodingFactory8/HelloWorld/obj/Debug/net8.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/billysbook/RiderProjects/CodingFactory8/HelloWorld/obj/Debug/net8.0/HelloWorld.dll
+/Users/billysbook/RiderProjects/CodingFactory8/HelloWorld/obj/Debug/net8.0/refint/HelloWorld.dll
+/Users/billysbook/RiderProjects/CodingFactory8/HelloWorld/obj/Debug/net8.0/HelloWorld.pdb
+/Users/billysbook/RiderProjects/CodingFactory8/HelloWorld/obj/Debug/net8.0/HelloWorld.genruntimeconfig.cache
+/Users/billysbook/RiderProjects/CodingFactory8/HelloWorld/obj/Debug/net8.0/ref/HelloWorld.dll

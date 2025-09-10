@@ -1,0 +1,14 @@
+/Users/billysbook/RiderProjects/CodingFactory8/DataTypes/bin/Debug/net8.0/DataTypes
+/Users/billysbook/RiderProjects/CodingFactory8/DataTypes/bin/Debug/net8.0/DataTypes.deps.json
+/Users/billysbook/RiderProjects/CodingFactory8/DataTypes/bin/Debug/net8.0/DataTypes.runtimeconfig.json
+/Users/billysbook/RiderProjects/CodingFactory8/DataTypes/bin/Debug/net8.0/DataTypes.dll
+/Users/billysbook/RiderProjects/CodingFactory8/DataTypes/bin/Debug/net8.0/DataTypes.pdb
+/Users/billysbook/RiderProjects/CodingFactory8/DataTypes/obj/Debug/net8.0/DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/billysbook/RiderProjects/CodingFactory8/DataTypes/obj/Debug/net8.0/DataTypes.AssemblyInfoInputs.cache
+/Users/billysbook/RiderProjects/CodingFactory8/DataTypes/obj/Debug/net8.0/DataTypes.AssemblyInfo.cs
+/Users/billysbook/RiderProjects/CodingFactory8/DataTypes/obj/Debug/net8.0/DataTypes.csproj.CoreCompileInputs.cache
+/Users/billysbook/RiderProjects/CodingFactory8/DataTypes/obj/Debug/net8.0/DataTypes.dll
+/Users/billysbook/RiderProjects/CodingFactory8/DataTypes/obj/Debug/net8.0/refint/DataTypes.dll
+/Users/billysbook/RiderProjects/CodingFactory8/DataTypes/obj/Debug/net8.0/DataTypes.pdb
+/Users/billysbook/RiderProjects/CodingFactory8/DataTypes/obj/Debug/net8.0/DataTypes.genruntimeconfig.cache
+/Users/billysbook/RiderProjects/CodingFactory8/DataTypes/obj/Debug/net8.0/ref/DataTypes.dll
