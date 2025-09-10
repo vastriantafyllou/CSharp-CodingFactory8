@@ -1,0 +1,15 @@
+/Users/billysbook/RiderProjects/CodingFactory8/WriteApp/bin/Debug/net8.0/WriteApp
+/Users/billysbook/RiderProjects/CodingFactory8/WriteApp/bin/Debug/net8.0/WriteApp.deps.json
+/Users/billysbook/RiderProjects/CodingFactory8/WriteApp/bin/Debug/net8.0/WriteApp.runtimeconfig.json
+/Users/billysbook/RiderProjects/CodingFactory8/WriteApp/bin/Debug/net8.0/WriteApp.dll
+/Users/billysbook/RiderProjects/CodingFactory8/WriteApp/bin/Debug/net8.0/WriteApp.pdb
+/Users/billysbook/RiderProjects/CodingFactory8/WriteApp/obj/Debug/net8.0/WriteApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/billysbook/RiderProjects/CodingFactory8/WriteApp/obj/Debug/net8.0/WriteApp.AssemblyInfoInputs.cache
+/Users/billysbook/RiderProjects/CodingFactory8/WriteApp/obj/Debug/net8.0/WriteApp.AssemblyInfo.cs
+/Users/billysbook/RiderProjects/CodingFactory8/WriteApp/obj/Debug/net8.0/WriteApp.csproj.CoreCompileInputs.cache
+/Users/billysbook/RiderProjects/CodingFactory8/WriteApp/obj/Debug/net8.0/WriteApp.sourcelink.json
+/Users/billysbook/RiderProjects/CodingFactory8/WriteApp/obj/Debug/net8.0/WriteApp.dll
+/Users/billysbook/RiderProjects/CodingFactory8/WriteApp/obj/Debug/net8.0/refint/WriteApp.dll
+/Users/billysbook/RiderProjects/CodingFactory8/WriteApp/obj/Debug/net8.0/WriteApp.pdb
+/Users/billysbook/RiderProjects/CodingFactory8/WriteApp/obj/Debug/net8.0/WriteApp.genruntimeconfig.cache
+/Users/billysbook/RiderProjects/CodingFactory8/WriteApp/obj/Debug/net8.0/ref/WriteApp.dll

@@ -1,0 +1,15 @@
+/Users/billysbook/RiderProjects/CodingFactory8/ReadApp/bin/Debug/net8.0/ReadApp
+/Users/billysbook/RiderProjects/CodingFactory8/ReadApp/bin/Debug/net8.0/ReadApp.deps.json
+/Users/billysbook/RiderProjects/CodingFactory8/ReadApp/bin/Debug/net8.0/ReadApp.runtimeconfig.json
+/Users/billysbook/RiderProjects/CodingFactory8/ReadApp/bin/Debug/net8.0/ReadApp.dll
+/Users/billysbook/RiderProjects/CodingFactory8/ReadApp/bin/Debug/net8.0/ReadApp.pdb
+/Users/billysbook/RiderProjects/CodingFactory8/ReadApp/obj/Debug/net8.0/ReadApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/billysbook/RiderProjects/CodingFactory8/ReadApp/obj/Debug/net8.0/ReadApp.AssemblyInfoInputs.cache
+/Users/billysbook/RiderProjects/CodingFactory8/ReadApp/obj/Debug/net8.0/ReadApp.AssemblyInfo.cs
+/Users/billysbook/RiderProjects/CodingFactory8/ReadApp/obj/Debug/net8.0/ReadApp.csproj.CoreCompileInputs.cache
+/Users/billysbook/RiderProjects/CodingFactory8/ReadApp/obj/Debug/net8.0/ReadApp.sourcelink.json
+/Users/billysbook/RiderProjects/CodingFactory8/ReadApp/obj/Debug/net8.0/ReadApp.dll
+/Users/billysbook/RiderProjects/CodingFactory8/ReadApp/obj/Debug/net8.0/refint/ReadApp.dll
+/Users/billysbook/RiderProjects/CodingFactory8/ReadApp/obj/Debug/net8.0/ReadApp.pdb
+/Users/billysbook/RiderProjects/CodingFactory8/ReadApp/obj/Debug/net8.0/ReadApp.genruntimeconfig.cache
+/Users/billysbook/RiderProjects/CodingFactory8/ReadApp/obj/Debug/net8.0/ref/ReadApp.dll

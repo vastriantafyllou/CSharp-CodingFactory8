@@ -4,6 +4,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\He
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTypes", "DataTypes\DataTypes.csproj", "{24190EE3-B7B8-4309-9093-EB80F4365BD4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WriteApp", "WriteApp\WriteApp.csproj", "{14ECEE0D-1435-4D54-857B-28F68DE14DA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadApp", "ReadApp\ReadApp.csproj", "{DA168EE9-ADDF-4839-9402-2A6E9392EB09}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{24190EE3-B7B8-4309-9093-EB80F4365BD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24190EE3-B7B8-4309-9093-EB80F4365BD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24190EE3-B7B8-4309-9093-EB80F4365BD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14ECEE0D-1435-4D54-857B-28F68DE14DA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14ECEE0D-1435-4D54-857B-28F68DE14DA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14ECEE0D-1435-4D54-857B-28F68DE14DA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14ECEE0D-1435-4D54-857B-28F68DE14DA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA168EE9-ADDF-4839-9402-2A6E9392EB09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA168EE9-ADDF-4839-9402-2A6E9392EB09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA168EE9-ADDF-4839-9402-2A6E9392EB09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA168EE9-ADDF-4839-9402-2A6E9392EB09}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
