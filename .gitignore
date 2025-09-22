@@ -1,0 +1,22 @@
+# User-specific files for all JetBrains products
+.idea/
+.git/
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Rider specific files
+*.sln.DotSettings.user
+
+# Other common files to ignore
+*.suo
+*.user
+*.userosscache
+*.log
+*.tmp
+*.pdb
+*.sqlite
+
+# NuGet packages folder
+[Pp]ackages/
