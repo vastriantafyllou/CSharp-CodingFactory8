@@ -1,0 +1,15 @@
+/Users/billysbook/RiderProjects/CodingFactory8/WhileApp/bin/Debug/net8.0/WhileApp
+/Users/billysbook/RiderProjects/CodingFactory8/WhileApp/bin/Debug/net8.0/WhileApp.deps.json
+/Users/billysbook/RiderProjects/CodingFactory8/WhileApp/bin/Debug/net8.0/WhileApp.runtimeconfig.json
+/Users/billysbook/RiderProjects/CodingFactory8/WhileApp/bin/Debug/net8.0/WhileApp.dll
+/Users/billysbook/RiderProjects/CodingFactory8/WhileApp/bin/Debug/net8.0/WhileApp.pdb
+/Users/billysbook/RiderProjects/CodingFactory8/WhileApp/obj/Debug/net8.0/WhileApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/billysbook/RiderProjects/CodingFactory8/WhileApp/obj/Debug/net8.0/WhileApp.AssemblyInfoInputs.cache
+/Users/billysbook/RiderProjects/CodingFactory8/WhileApp/obj/Debug/net8.0/WhileApp.AssemblyInfo.cs
+/Users/billysbook/RiderProjects/CodingFactory8/WhileApp/obj/Debug/net8.0/WhileApp.csproj.CoreCompileInputs.cache
+/Users/billysbook/RiderProjects/CodingFactory8/WhileApp/obj/Debug/net8.0/WhileApp.sourcelink.json
+/Users/billysbook/RiderProjects/CodingFactory8/WhileApp/obj/Debug/net8.0/WhileApp.dll
+/Users/billysbook/RiderProjects/CodingFactory8/WhileApp/obj/Debug/net8.0/refint/WhileApp.dll
+/Users/billysbook/RiderProjects/CodingFactory8/WhileApp/obj/Debug/net8.0/WhileApp.pdb
+/Users/billysbook/RiderProjects/CodingFactory8/WhileApp/obj/Debug/net8.0/WhileApp.genruntimeconfig.cache
+/Users/billysbook/RiderProjects/CodingFactory8/WhileApp/obj/Debug/net8.0/ref/WhileApp.dll

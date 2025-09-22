@@ -1,0 +1,15 @@
+/Users/billysbook/RiderProjects/CodingFactory8/EurosToDollars/bin/Debug/net8.0/EurosToDollars
+/Users/billysbook/RiderProjects/CodingFactory8/EurosToDollars/bin/Debug/net8.0/EurosToDollars.deps.json
+/Users/billysbook/RiderProjects/CodingFactory8/EurosToDollars/bin/Debug/net8.0/EurosToDollars.runtimeconfig.json
+/Users/billysbook/RiderProjects/CodingFactory8/EurosToDollars/bin/Debug/net8.0/EurosToDollars.dll
+/Users/billysbook/RiderProjects/CodingFactory8/EurosToDollars/bin/Debug/net8.0/EurosToDollars.pdb
+/Users/billysbook/RiderProjects/CodingFactory8/EurosToDollars/obj/Debug/net8.0/EurosToDollars.GeneratedMSBuildEditorConfig.editorconfig
+/Users/billysbook/RiderProjects/CodingFactory8/EurosToDollars/obj/Debug/net8.0/EurosToDollars.AssemblyInfoInputs.cache
+/Users/billysbook/RiderProjects/CodingFactory8/EurosToDollars/obj/Debug/net8.0/EurosToDollars.AssemblyInfo.cs
+/Users/billysbook/RiderProjects/CodingFactory8/EurosToDollars/obj/Debug/net8.0/EurosToDollars.csproj.CoreCompileInputs.cache
+/Users/billysbook/RiderProjects/CodingFactory8/EurosToDollars/obj/Debug/net8.0/EurosToDollars.sourcelink.json
+/Users/billysbook/RiderProjects/CodingFactory8/EurosToDollars/obj/Debug/net8.0/EurosToDollars.dll
+/Users/billysbook/RiderProjects/CodingFactory8/EurosToDollars/obj/Debug/net8.0/refint/EurosToDollars.dll
+/Users/billysbook/RiderProjects/CodingFactory8/EurosToDollars/obj/Debug/net8.0/EurosToDollars.pdb
+/Users/billysbook/RiderProjects/CodingFactory8/EurosToDollars/obj/Debug/net8.0/EurosToDollars.genruntimeconfig.cache
+/Users/billysbook/RiderProjects/CodingFactory8/EurosToDollars/obj/Debug/net8.0/ref/EurosToDollars.dll
